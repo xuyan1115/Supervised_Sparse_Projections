@@ -1,6 +1,6 @@
 # Supervised_Sparse_Projections
 
-The code for paper `Large-scale image retrieval with supervised sparse hashing`
+The code for paper [Large-scale image retrieval with supervised sparse hashing](http://www.sciencedirect.com/science/article/pii/S0925231216313741?via%3Dihub)
 
 For more information see:
 ```
